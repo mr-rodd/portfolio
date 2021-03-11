@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-mr--rodd-red.svg)](https://www.linkedin.com/in/rodrigo-r-aguiar-04b62b52/) [![](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/release/python-392/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mr-rodd/data_science/issues)
+[![author](https://img.shields.io/badge/author-mr--rodd-red.svg)](https://www.linkedin.com/in/rodrigo-r-aguiar-04b62b52/) [![](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/release/python-392/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mr-rodd/data_science/issues)
 
 <p align="center">
   <img src="banner_DS.png" >
