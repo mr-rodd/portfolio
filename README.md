@@ -7,9 +7,9 @@
 # Rodrigo Aguiar
 <sub> *Data Scientist* </sub>
 
-As a Data Scientist and Nurse I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last year applying Machine Learning to Brazilian Health real problems, I developed a critical thinking and problem-solving skills.
+As a Data Scientist and Nurse I combine analytical skills, ability to work in team environments, and attention to details. Dedicating my time to apply Machine Learning to Brazilian Health real problems, I developed a critical thinking and problem-solving skills.
 
-My credentials include aUndergraduate degree in Nurse and Public Health from the Universidade Federal de Rondônia (UNIR).
+My credentials include an Undergraduate degree in Nurse and Public Health from the Universidade Federal de Rondônia (UNIR).
 
 **Background in:** Python, Machine Learning and Public Health.
 
