@@ -21,6 +21,7 @@ My credentials include an Undergraduate degree in Nurse and Public Health from t
 ## Projetos:
 Veja meus tutoriais publicados:
 
+* **Desafio Kaggle: análise dos dados do Titanic:** http://bit.ly/analise-titanic
 * **Análise dos dados do Airbnb da cidade de Tóquio:** http://bit.ly/analise-airbnb-toquio
 ---
 
